@@ -1,2 +1,2 @@
 # Das Weisse Pferd
-Eine Geschichte aus China zum Jahreswechsel `21 - `22
+Eine Geschichte aus China zum Jahreswechsel .021-.022
