@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;   
+}
+body{
+
+    background-image: url(img/konfetti200.png);
+
+}
+.header-img{
+        height: 100vh;
+        background-image: url(img/konfetti200.png);
+        background-color: rgb(27, 4, 4); 
+        width: 100vw;   
+        display: flex;
+        flex-wrap: wrap;
+         justify-content: center;
+         align-items: center;
+         margin-top: 3rem;
+}
+#logo-box{
+    display: flex;
+    justify-content: center;
+}
+#enzaBlu{
+    position:absolute;
+    margin-top: 5rem;
+    border-radius: 50%;
+    width: 5rem;
+    border: .5rem solid rgb(20, 161, 67);
+}
+#middleBox{
+    display: grid;
+    width: 80vw;
+    height: 70vh;
+    background-color: rgba(158, 29, 68, 0.794);  
+    border: 5px groove rgba(136, 189, 21, 0.918);
+    border-radius: 25px;
+margin-top: 11rem;
+padding-bottom: 5rem;
+justify-content: center;
+}
+#txt{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.7rem;
+    font-weight: 100;
+    color: rgba(107, 228, 27, 0.918);
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 0%;
+}
+#txtTop{
+    font-weight: 100;
+}
+#iframe-box{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+#dot{
+    font-size: larger;
+}
+iframe{
+    width: 70vw;
+    height: 40vh;
+}
+#logo{
+    width: 5rem;
+    margin-top: 2rem;
+}
+#logoImg{
+    display: grid;
+    justify-content: center;
+}
+footer{
+    background-image: url(img/konfetti200.png);
+    height: 300px;
+}
